@@ -52,7 +52,7 @@
     </ul>
 </small>
 
-![](https://i.imgur.com/8VCD19d.jpg)
+![](https://i.imgur.com/HZD9hAG.jpg)
 
 ---
 
@@ -200,12 +200,13 @@ public class Polygon {
 ---
 
 ### [第三步驟] 判斷兩個交點是否在同側
-![](https://i.imgur.com/gL9GBLa.jpg)
+![](https://i.imgur.com/3uU3o3u.jpg)
+
 
 ---
 
 ### [第三步驟] 判斷兩個交點是否在同側
-![](https://i.imgur.com/KB3s5Sc.png)
+![](https://i.imgur.com/eSG2THE.jpg)
 
 
 ---
@@ -274,3 +275,10 @@ boolean isAnotherInsideOne(Point2D pt, ArrayList<Line> twoline){
 bool isOverlap（Polygon p1, Polygon p2）
 ```
 ![](https://i.imgur.com/sETmK7U.png)
+
+
+
+
+
+
+
